@@ -23,7 +23,7 @@ y con ganas de crecer profesionalmente en el ámbito del desarrollo de software.
 
 ## 🚀 Proyectos destacados
 
-- 🔗 **[Proyecto Entorno de Desarrollo](https://github.com/1damjulioverne20232024/supermarioweb-Capel23.git)**: Repositorio de ejercicios de Git y GitHub.
+- 🔗 **[Proyecto Entorno de Desarrollo](https://github.com/Capel23/ProyectoEntorno)**: Repositorio de ejercicios de Git y GitHub.
 
 ## 🌱 Actualmente aprendiendo
 

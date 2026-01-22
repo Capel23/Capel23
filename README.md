@@ -22,7 +22,7 @@ y con ganas de crecer profesionalmente en el ámbito del desarrollo de software.
 - **Sistemas de control de versiones:** Git/GitHub (branches, commits, pull requests, stashes).
 
 ## 🚀 Proyectos destacados
-
+- 🔗 **[Proyecto Acceso a datos](https://github.com/Capel23/ProyectoGestionAeronaves.git)**: Repositorio de gestión de aeronaves.
 - 🔗 **[Proyecto Entorno de Desarrollo](https://github.com/Capel23/ProyectoEntorno)**: Repositorio de ejercicios de Git y GitHub.
 
 ## 🌱 Actualmente aprendiendo

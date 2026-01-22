@@ -23,6 +23,8 @@ y con ganas de crecer profesionalmente en el ámbito del desarrollo de software.
 
 ## 🚀 Proyectos destacados
 - 🔗 **[Proyecto Acceso a datos](https://github.com/Capel23/ProyectoGestionAeronaves.git)**: Repositorio de gestión de aeronaves.
+- 🔗 **[Proyecto Laravel](https://github.com/Capel23/RetroGames.git)**: Repositorio en PHP y Blade.
+- 🔗 **[Proyecto Python](https://github.com/Capel23/GestionGym_CapelLuis)**: Repositorio gestión gimnasio en Python.
 - 🔗 **[Proyecto Entorno de Desarrollo](https://github.com/Capel23/ProyectoEntorno)**: Repositorio de ejercicios de Git y GitHub.
 
 ## 🌱 Actualmente aprendiendo

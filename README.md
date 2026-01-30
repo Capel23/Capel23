@@ -17,8 +17,8 @@ Me encuentro en constante aprendizaje, con especial interés en el **desarrollo 
 ## 🛠️ Habilidades técnicas
 
 ### 🔤 Lenguajes de programación
-- 💾 **Java**
-- 🐘 **PHP**
+- ☕ **Java**
+- 💾 **PHP**
 - 🐍 **Python**
 - 🌐 **HTML5, CSS3**
 - 🛠️ **Bash scripting**
@@ -31,7 +31,7 @@ Me encuentro en constante aprendizaje, con especial interés en el **desarrollo 
 
 ### 🗃️ Bases de datos
 - 🐘 **PostgreSQL**
-- 🪶 **SQLite**
+- 🖋️ **SQLite**
 - 🐬 **MySQL**
 - 🗂️ Modelado y gestión de bases de datos relacionales
 

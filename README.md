@@ -1,58 +1,93 @@
 # ¡Hola, soy @Capel23! 👋
 
-Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma, apasionado por el mundo de la programación, en constante aprendizaje 
-y con ganas de crecer profesionalmente en el ámbito del desarrollo de software. 🚀
+Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, apasionado por la programación y el desarrollo de software.  
+Me encuentro en constante aprendizaje, con especial interés en el **desarrollo backend y full-stack**, y con muchas ganas de seguir creciendo profesionalmente 🚀
+
+---
 
 ## 🧑‍🎓 Sobre mí
 
-- 🎓 Actualmente estudio un **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**.
-- 💻 Me interesan temas como **desarrollo web**, **ciberseguridad**, **algoritmos** y **control de versiones con Git/GitHub**.
-- 📚 Me gusta resolver problemas y aprender nuevos lenguajes de programación.
+- 🎓 Estudiante de **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+- 💻 Interesado en **desarrollo web**, **backend**, **bases de datos**, **ciberseguridad** y **control de versiones**.
+- 📚 Me gusta aprender nuevas tecnologías, resolver problemas y aplicar buenas prácticas de programación.
+- 🤝 Abierto a colaborar en proyectos y seguir aprendiendo en equipo.
+
+---
 
 ## 🛠️ Habilidades técnicas
 
-- **Lenguajes de programación:**
-  - 🌐 HTML, CSS
-  - 💾 Java
-  - 🛠️ Bash scripting
-- **Herramientas y tecnologías:**
-  - 🗂️ Git, GitHub
-  - 🐧 Linux (Ubuntu, Kali)
-  - 📦 Virtualización (VirtualBox)
-- **Sistemas de control de versiones:** Git/GitHub (branches, commits, pull requests, stashes).
+### 🔤 Lenguajes de programación
+- 💾 **Java**
+- 🐘 **PHP**
+- 🐍 **Python**
+- 🌐 **HTML5, CSS3**
+- 🛠️ **Bash scripting**
+
+### ⚙️ Frameworks y tecnologías
+- 🍃 **Spring Boot**
+- 🌿 **Laravel**
+- 🧩 **Blade**
+- 🗄️ **JPA / Hibernate**
+
+### 🗃️ Bases de datos
+- 🐘 **PostgreSQL**
+- 🪶 **SQLite**
+- 🐬 **MySQL**
+- 🗂️ Modelado y gestión de bases de datos relacionales
+
+### 🧰 Herramientas y entorno
+- 🗂️ **Git & GitHub** (branches, commits, pull requests, stashes)
+- 🐧 **Linux** (Ubuntu, Kali Linux)
+- 📦 **VirtualBox**
+- 🧠 **IntelliJ IDEA**, **VS Code**
+- ☕ **Maven / Gradle**
+
+---
 
 ## 🚀 Proyectos destacados
-- 🔗 **[Proyecto Acceso a datos](https://github.com/Capel23/ProyectoGestionAeronaves.git)**: Repositorio de gestión de aeronaves.
-- 🔗 **[Proyecto Laravel](https://github.com/Capel23/RetroGames.git)**: Repositorio en PHP y Blade.
-- 🔗 **[Proyecto Python](https://github.com/Capel23/GestionGym_CapelLuis)**: Repositorio gestión gimnasio en Python.
-- 🔗 **[Proyecto Entorno de Desarrollo](https://github.com/Capel23/ProyectoEntorno)**: Repositorio de ejercicios de Git y GitHub.
+
+- 🔗 **[Proyecto Acceso a Datos](https://github.com/Capel23/ProyectoGestionAeronaves.git)**  
+  Aplicación Java para la gestión de aeronaves.
+
+- 🔗 **[Proyecto Laravel](https://github.com/Capel23/RetroGames.git)**  
+  Aplicación web desarrollada con **PHP, Laravel y Blade**.
+
+- 🔗 **[Proyecto Python](https://github.com/Capel23/GestionGym_CapelLuis)**  
+  Sistema de gestión de gimnasio en Python.
+
+- 🔗 **[Proyecto Entorno de Desarrollo](https://github.com/Capel23/ProyectoEntorno)**  
+  Ejercicios y prácticas con **Git y GitHub**.
+
+- 🔗 **[Proyecto Spring Boot](https://github.com/Capel23/Liga-Master.git)**  
+  Aplicación backend con **Spring Boot y SQLite**.
+
+---
 
 ## 🌱 Actualmente aprendiendo
 
-- 🖥️ Desarrollo de aplicaciones con **Java**.
-- 📘 Fundamentos de **Ciberseguridad**.
-- 🌐 Creación de páginas webs con **HTML** y **CSS**.
+- ☕ Desarrollo backend con **Java y Spring Boot**
+- 🌿 Desarrollo web con **Laravel**
+- 🗄️ **PostgreSQL** y diseño de bases de datos
+- 🔐 Fundamentos de **Ciberseguridad**
+- 🌐 Mejores prácticas en desarrollo web
+
+---
 
 ## 🎯 Objetivos
 
-1. Desarrollar proyectos colaborativos en GitHub.
-2. Convertirme en desarrollador full-stack.
-3. Explorar el mundo de la inteligencia artificial y el machine learning.
+1. Seguir desarrollando proyectos reales y colaborativos.
+2. Convertirme en **desarrollador full-stack**.
+3. Profundizar en backend, bases de datos y arquitectura de software.
+4. Explorar áreas como **IA y Machine Learning** en el futuro.
+
+---
 
 ## 📫 Cómo contactarme
 
 - ✉️ **Email**: [capel.luis23@gmail.com](mailto:capel.luis23@gmail.com)
-- 💼 **LinkedIn**: [Mi Perfil](https://www.linkedin.com/in/luiscapel/)
-  
-<!---- 🌐 **Portafolio**: [tu-portfolio.com](https://tu-portfolio.com) _(opcional, si tienes uno)_
-_Siempre en busca de nuevos desafíos y oportunidades para aprender algo nuevo. ¡Colaboremos juntos! 🤝_
-Capel23/Capel23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 👋 Hi, I’m @Capel23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
+- 💼 **LinkedIn**: [Mi perfil](https://www.linkedin.com/in/luiscapel/)
+
+---
+
+_Siempre en busca de nuevos desafíos y oportunidades para aprender algo nuevo.  
+¡Colaboremos juntos! 🤝_
